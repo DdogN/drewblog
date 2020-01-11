@@ -10,15 +10,13 @@ body {touch-action:manipulation;}
   font-size: 24px;
   margin: 4px 2px;
   cursor: pointer;
+  background-color: #008CBA;
+  border-radius: 12px;
 }
 .button:hover {
   background-color: #79ff2f;
-  color: black
-.button1 {background-color: #008CBA;
-          border-radius: 12px;}
-.button2 {background-color: #79ff2f;
-          border-radius: 12px;}
-
+  color: black;
+  
 body {
     background-image: url("173789.jpg");
     font-family: 'Open Sans', sans-serif;
