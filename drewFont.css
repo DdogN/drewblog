@@ -16,8 +16,7 @@ body {touch-action:manipulation;}
 .button2 {background-color: #f44336;}
 
 body {
-    font-family: "Open Sans", sans-serif;
-    color: white;
+    font-family: 'Open Sans', sans-serif;
 }
 div.a {
     text-align: center;
