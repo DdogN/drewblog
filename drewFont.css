@@ -12,8 +12,8 @@ body {touch-action:manipulation;}
   cursor: pointer;
 
 }
-button.button1 {background-color: #008CBA;}
-button.button2 {background-color: #79ff2f;}
+.button1 {background-color: #008CBA;}
+.button2 {background-color: #79ff2f;}
 
 body {
     background-image: url("173789.jpg");
