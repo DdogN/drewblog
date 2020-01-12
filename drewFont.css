@@ -1,30 +1,37 @@
-body {touch-action:manipulation;}
-.button {
-  background-color: #4CAF50;
-  Border: black;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: Open sans;
-  display: inline-block
-  font-size: 24px;
-  margin: 4px 2px;
-  cursor: pointer;
-  background-color: #008CBA;
-  border-radius: 12px;
-}
-.button:hover {
-  background-color: #79ff2f;
-  color: black;
-}
-body {
-    background-image: url("173789.jpg");
-    font-family: 'Open Sans', sans-serif;
-    color: white
-}
-div.a {
-    text-align: center;
-}
-div.b {
-    text-align: left;
+	.button {
+		background-color: #4CAF50;
+		Border: black;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: Open sans;
+		display: inline-block
+		font-size: 24px;
+		margin: 4px 2px;
+		cursor: pointer;
+		background-color: #008CBA;
+		border-radius: 12px;
+	}
+	.button:hover {
+		background-color: #79ff2f;
+		color: black;
+	}
+	body {
+		background-image: url("173789.jpg");
+		font-family: 'Open Sans', sans-serif;
+		color: white;
+		touch-action:manipulation;
+	}
+	div.a {
+		text-align: center;
+	}
+	div.b {
+		text-align: left;
+	}
+
+div.vertical-center {
+  margin: 0;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
